@@ -53,7 +53,7 @@
     "wpackagist-plugin/redis-cache": "^2.7"
   },
   "require-dev": {
-    "squizlabs/php_codesniffer": "^4.0.1",
+    "squizlabs/php_codesniffer": "^4.0.4",
     "roave/security-advisories": "dev-latest"
   },
   "config": {
