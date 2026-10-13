@@ -49,8 +49,8 @@
     "roots/wp-config": "1.0.0",
     "roots/wp-password-bcrypt": "1.1.0",
     "wpackagist-theme/twentytwentyfive": "^1.2",
-    "wpackagist-plugin/flywp": "^1.5",
-    "wpackagist-plugin/redis-cache": "^2.7"
+    "wpackagist-plugin/flywp": "^1.8",
+    "wpackagist-plugin/redis-cache": "^3.0"
   },
   "require-dev": {
     "squizlabs/php_codesniffer": "^4.0.1",
